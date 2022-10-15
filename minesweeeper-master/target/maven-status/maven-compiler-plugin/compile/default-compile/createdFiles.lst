@@ -1,0 +1,5 @@
+app\Controller.class
+app\App.class
+app\Status.class
+app\Board.class
+app\Cell.class
